@@ -1,0 +1,1096 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media (min-width: 1920px) and (max-width: 2500px){
+	
+}
+
+@media (min-width: 1600px) and (max-width: 1919.98px){
+    .custom-header nav ul.navbar-nav > li {margin-left: 34px;}
+	.custom-header .container-fluid {padding: 0 4%;}
+    .banner-social ul {left: -200px;bottom: 190px;}
+    .custom-about .watermark {left: -60px;}
+    .watermark h2 {font-size: 135px;}
+}
+
+@media (min-width: 1366px) and (max-width: 1599.98px){
+	.custom-submenu {width: 320px;}
+    p {font-size: 16px;line-height: 32px;}
+    .custom-header nav ul.navbar-nav > li {margin-left: 20px;}
+	.custom-header .container-fluid {padding: 0 15px;}
+    .banner-social ul {left: -240px;bottom: 230px;}
+    .banner-content h1 {font-size: 60px;}
+    .banner-content h4 {font-size: 32px;margin: 10px 0 40px;}
+    .custom-btn {font-size: 16px;}
+    .banner-content {margin-left: 70px;}
+    .custom-banner {padding: 240px 0 118px;}
+    #quick-service-owl .owl-nav .owl-prev {left: 0px;}
+    #quick-service-owl .owl-nav .owl-next {right: 0px;}
+    .q-content h4 {font-size: 22px;}
+    .q-icon {margin-bottom: 20px;height: 120px;width: 120px;}
+    .custom-about .watermark {left: -60px;top: 15%;}
+    .watermark h2 {font-size: 135px;}
+    .abt-top-content h5 {font-size: 22px;margin-top: 15px;}
+    .custom-heading h4 {font-size: 35px;margin-top: 15px;}
+    .custom-heading h2 {font-size: 60px;}
+    .abt-top-content ul li {font-size: 16px;line-height: 32px;font-weight: 400;}
+    .abt-top-content ul {margin-top: 30px;}
+    .abt-top-img-2 {bottom: -60px;left: 20px;}
+    .abt-bottom {margin-top: 140px;}
+    .abt-bottom .abt-box p {font-size: 16px;min-height: 420px;}
+    .abt-bottom .abt-box h5 {font-size: 26px;margin: 30px 0 24px;}
+    .abt-box-img img {height: 100px;}
+    .marketing-content h3 {font-size: 28px;}
+    .marketing-box {margin-bottom: 30px;}
+    .marketing-list li {font-size: 18px;}
+    .why-choose-text {top: 28%;}
+    .marketing-list {min-height: 90px;margin-bottom: 30px;}
+    .digital-marketing .watermark {right: -7%;}
+    .marketing-list li::before {top: 12px;}
+    .faq-content .accordion .accordion-button.collapsed {font-size: 21px;padding: 30px 20px;}
+    .faq-content .accordion .accordion-button {font-size: 21px;padding: 30px 20px;}
+    .faq-content .accordion .accordion-body {font-size: 22px;padding: 25px 20px;}
+
+    .inner-banner-content h1 {font-size: 60px;padding-right: 30%;}
+    .inner-banner-text .breadcrumb {margin-top: 150px;}
+    .custom-inner-banner .banner-overlay {bottom: 24%;}
+
+    /*About*/
+    .about-inner-content h5 {font-size: 22px;margin: 25px 0 0;}
+    .about-inner-content p {margin-top: 20px;}
+    .about-inner .row:last-child {margin-top: 70px;}
+    .about-service .container .row:last-child {margin-top: 10px;padding: 0px 12%;}
+    .about-service .marketing-list {min-height: 110px;}
+    .abt-explore-box h3 {font-size: 38px;line-height: 58px;min-height: 250px;}
+
+
+    /*Benefits of parenting*/
+    .benefits-details-box p {min-height: 130px;font-size: 16px;}
+    .benefits-interest {margin-top: 100px;}
+    .cta-content .custom-heading h4 {font-size: 30px;}
+
+
+    /*Blog details*/
+    .blog-details-content-wrap ul li {padding: 10px 0 10px 30px;font-size: 16px;}
+    .blog-details-text-box {margin-top: 30px;padding: 40px 0;}
+    .blog-details-content-wrap ul li h5 {font-size: 24px;}
+    .blog-details-content-wrap ul li h5::after {width: 20px;left: -30px;}
+    .blog-details-content-wrap p {margin: 40px 0 20px;}
+
+
+    /*Contact*/
+    .form-1 {margin: 30px 0 60px;}
+    .form-2 {margin: 30px 0 60px;}
+    .form-3 {margin: 30px 0 60px;}
+    .contact-inner-wrap .form-wrap .form-control {padding: 20px 20px;font-size: 16px;}
+    .contact-privacy ul li {font-size: 16px;}
+    .contact-privacy {margin: 75px 20px 0;padding: 50px 30px;}
+    .form-btn {margin-top: 60px;}
+    .contact-inner-wrap .form-wrap .form-select {padding: 20px 20px;font-size: 16px;width: 98%;}
+
+
+    /*ebook*/
+    .ebook-details-content .custom-heading {margin: 20px 0 70px;}
+
+    /*Faq*/
+    .general-question-content h4 {font-size: 26px;}
+    .faq-details-head {font-size: 26px;}
+
+
+    /*oppportunity*/
+    .partnership-opportunity-info-content img {width: 100%;}
+    .why-partner-content {margin-top: 60px;}
+    .why-partner-box-text h5 {font-size: 24px;padding-right: 60%;}
+    .why-partner-box-img img {height: 600px;}
+    .why-partner-box-text p {font-size: 16px;}
+
+
+    /*Service-inner*/   
+    .service-inner-content-wrap ul li {font-size: 16px;padding: 0 0 10px 25px;}
+    .service-inner-content-wrap ul li::after {width: 12px;height: 12px;top: 6px;}
+    .service-inner-content-wrap h5 {font-size: 22px;}
+    .service-inner-content-wrap p {margin: 15px 0px;}
+    .service-inner-content-wrap {margin-top: 35px;}
+    .service-inner-content-wrap ul {margin: 15px 0;}
+	
+	/*changes*/
+	.about-service .marketing-box::before {top: 49%;}
+	.about-service .marketing-box::after {top: 33%;}
+	.form-btn p::after {height: 54px;left: 140px;}
+
+}
+
+@media (min-width: 1200px) and (max-width: 1365.98px){
+	.custom-submenu {width: 280px;}
+    .custom-header nav ul.navbar-nav > li {margin-left: 18px;}
+    ul.custom-submenu li a {font-size: 14px;}
+    p {font-size: 15px;line-height: 30px;}
+    .custom-pad {padding: 100px 0;}
+    .custom-header .container-fluid {padding: 0 15px;}
+    .custom-header nav ul li a {font-size: 15px;}
+    .banner-social ul {left: -240px;bottom: 230px;}
+    .banner-content h1 {font-size: 50px;}
+    .banner-content h4 {font-size: 22px;margin: 10px 0 40px;}
+    .custom-btn {font-size: 15px;}
+    .banner-content {margin-left: 60px;}
+    .custom-banner {padding: 220px 0 90px;}
+    #quick-service-owl .owl-nav .owl-prev {left: 0px;font-size: 22px;height: 40px;width: 40px;}
+    #quick-service-owl .owl-nav .owl-next {right: 0px;font-size: 22px;height: 40px;width: 40px;}
+    .q-content h4 {font-size: 20px;}
+    .q-icon {margin-bottom: 20px;height: 110px;width: 110px;}
+    .custom-btn span {height: 52px;margin-left: 25px;line-height: 56px;}
+    .custom-about .watermark {left: -80px;top: 16%;}
+    .watermark h2 {font-size: 135px;}
+    .abt-top-content h5 {font-size: 20px;margin-top: 15px;}
+    .custom-heading h4 {font-size: 32px;margin-top: 10px;}
+    .custom-heading h2 {font-size: 50px;}
+    .abt-top-content ul li {font-size: 15px;line-height: 30px;font-weight: 400;}
+    .abt-top-content ul {margin-top: 25px;}
+    .abt-top-img-2 {bottom: -60px;left: 0px;text-align: left;}
+    .abt-bottom {margin-top: 120px;}
+    .abt-bottom .abt-box p {font-size: 15px;min-height: 420px;}
+    .abt-bottom .abt-box h5 {font-size: 22px;margin: 25px 0 15px;}
+    .abt-box-img img {height: 100px;}
+    .abt-top-img img {width: 85%;object-fit: cover;}
+    .marketing-content h3 {font-size: 24px;}
+    .marketing-box {margin-bottom: 30px;}
+    .marketing-list li {font-size: 16px;}
+    .why-choose-text {top: 28%;}
+    .marketing-list {min-height: 90px;margin-bottom: 30px;}
+    .digital-marketing .watermark {right: -8%;bottom: 13%;}
+    .digital-marketing .custom-heading p {margin: 30px 0 0;}
+    .digital-marketing .custom-heading.text-center {margin-bottom: 50px;}
+    .why-choose-digital-market {margin-top: 70px;}
+    .marketing-list li::before {top: 9px;}
+    .faq-content .accordion .accordion-button.collapsed {font-size: 20px;padding: 30px 20px;}
+    .faq-content .accordion .accordion-button {font-size: 20px;padding: 30px 20px;}
+    .faq-content .accordion .accordion-body {font-size: 20px;padding: 25px 20px;}
+    .faq-content .custom-heading {margin-bottom: 45px;}
+    .faq-content .accordion .accordion-button::after {font-size: 12px;width: 25px;height: 25px;line-height: 30px;}
+    .blog-posts {margin-top: 60px;}
+    .blog-box h5 {font-size: 24px;line-height: 32px;margin: 25px 0 10px;}
+    .blog-box {padding: 35px 25px;}
+    .blog-btn {margin-top: 30px;}
+    .result-content ul li:last-child {font-size: 22px;}
+    .result-content p {font-size: 17px;}
+    .result-img::before {top: -30px;right: 30px;}
+
+
+    /*Footer*/
+    .footer-list ul li a {font-size: 15px;}
+    .footer-list ul li {padding-bottom: 8px;}
+    .footer-logo p {font-size: 15px;  line-height: 30px;}
+    .copyright {margin-top: 40px;padding: 15px 0;}
+    .copyright-text p {font-size: 13px;}
+    .footer-head {font-size: 17px;padding-bottom: 40px;}
+    .footer-head::before {bottom: 18px;}
+    .footer-wrap {padding: 100px 0 0;}
+    
+
+    .inner-banner-content h1 {font-size: 50px;padding-right: 30%;}
+    .inner-banner-text .breadcrumb {margin-top: 100px;}
+    .custom-inner-banner .banner-overlay {bottom: 24%;}
+    .custom-inner-banner {padding: 270px 0 30px;}
+    .inner-banner-text .breadcrumb li {font-size: 16px;}
+
+    /*About*/
+    .about-inner-content h5 {font-size: 18px;margin: 20px 0 0;}
+    .about-inner-content p {margin-top: 20px;}
+    .about-inner .row:last-child {margin-top: 50px;}
+    .about-service .container .row:last-child {margin-top: 10px;padding: 0px 12%;}
+    .about-service .marketing-list {min-height: 110px;}
+    .abt-explore-box h3 {font-size: 32px;line-height: 48px;min-height: 210px;}
+    .abt-partner .result-img::before {right: 20px;}
+
+
+    /*Benefits of parenting*/
+    .benefits-details-box p {min-height: 120px;font-size: 15px;}
+    .benefits-details-box .benefits-details-icon img {height: 80px;}
+    .benefits-details-box h4 {font-size: 26px;margin: 35px 0 15px;}
+    .benefits-interest {margin-top: 70px;}
+    .benefits-details {padding-bottom: 160px !important;}
+    .cta-content .custom-heading h4 {font-size: 26px;}
+
+
+    /*Blog details*/
+    .blog-details-content-wrap ul li {padding: 10px 0 10px 30px;font-size: 16px;}
+    .blog-details-text-box {margin-top: 30px;padding: 40px 0;}
+    .blog-details-content-wrap ul li h5 {font-size: 24px;}
+    .blog-details-content-wrap ul li h5::after {width: 20px;left: -30px;}
+    .blog-details-content-wrap p {margin: 40px 0 20px;}
+
+
+    /*Contact*/
+    .form-1 {margin: 30px 0 60px;}
+    .form-2 {margin: 30px 0 60px;}
+    .form-3 {margin: 30px 0 60px;}
+    .contact-inner-wrap .form-wrap .form-control {padding: 16px 20px;font-size: 15px;}
+    .contact-privacy ul li {font-size: 15px;}
+    .contact-privacy {margin: 75px 20px 0;padding: 50px 30px;}
+    .form-btn {margin-top: 60px;}
+    .contact-inner-wrap .form-wrap .form-select {padding: 16px 20px;font-size: 15px;width: 98%;}
+
+
+    /*ebook*/
+    .ebook-details-content .custom-heading {margin: 20px 0 70px;}
+
+
+    /*Faq*/
+    .general-question-content h4 {font-size: 26px;}
+    .faq-details-head {font-size: 26px;}
+
+
+    /*oppportunity*/
+    .partnership-opportunity-info-content img {width: 100%;}
+    .why-partner-content {margin-top: 60px;}
+    .why-partner-box-text h5 {font-size: 24px;padding-right: 60%;}
+    .why-partner-box-img img {height: 580px;}
+    .why-partner-box-text p {font-size: 15px;padding-right: 170px;}
+
+
+    /*Video*/
+    .video-info-img img {width: 100%;}
+    .video-info-slider .custom-heading {margin-bottom: 50px;}
+    .video-nav-slider {margin-top: 60px;}
+    .local-video iframe {height: 210px;}
+    .video-nav-slider .video-business iframe {height: 250px;}
+
+
+    /*Service-inner*/   
+    .service-inner-content-wrap ul li {font-size: 15px;padding: 0 0 10px 25px;}
+    .service-inner-content-wrap ul li::after {width: 12px;height: 12px;top: 6px;}
+    .service-inner-content-wrap h5 {font-size: 20px;}
+    .service-inner-content-wrap p {margin: 15px 0px;}
+    .service-inner-content-wrap {margin-top: 35px;}
+    .service-inner-content-wrap ul {margin: 15px 0;}
+    .service-inner-img::before {bottom: -8%;}
+    .service-inner .container .row:last-child {margin-top: 150px;}
+
+	
+	/*Changes*/
+	.custom-header .navbar-nav li .sub-menu li a {padding: 8px 10px;}
+	.header-btn {margin-left: 19px;}
+	
+	.about-service .marketing-box::before {top: 49%;}
+	.about-service .marketing-box::after {top: 33%;}
+	.form-btn p::after {height: 53px;left: 136px;}
+
+}
+
+@media (min-width: 1024px) and (max-width: 1200px){
+	.custom-submenu {width: 280px;}
+    .container{max-width: 1170px;}
+    .custom-header nav ul.navbar-nav > li {margin-left: 14px;}
+    ul.custom-submenu li a {font-size: 14px;}
+    .main-brand img {height: 135px;}
+    .custom-header nav ul > li a{font-size: 13px;}
+    ul.custom-submenu li a {font-size: 14px !important;}
+    p {font-size: 14px;line-height: 28px;}
+    .custom-pad {padding: 80px 0;}
+    .custom-header .container-fluid {padding: 0 15px;}
+    .banner-social ul {left: -230px;bottom: 200px;}
+    .banner-content h1 {font-size: 50px;}
+    .banner-content h4 {font-size: 22px;margin: 10px 0 40px;}
+    .custom-btn {font-size: 14px;padding: 0 0px 0 16px;}
+    .banner-content {margin-left: 60px;}
+    .custom-banner {padding: 220px 0 90px;}
+    #quick-service-owl .owl-nav .owl-prev {left: 0px;font-size: 22px;height: 40px;width: 40px;}
+    #quick-service-owl .owl-nav .owl-next {right: 0px;font-size: 22px;height: 40px;width: 40px;}
+    .q-content h4 {font-size: 18px;}
+    .q-icon {margin-bottom: 20px;height: 110px;width: 110px;}
+    .custom-btn span {height: 48px;margin-left: 10px;line-height: 52px;}
+    .header-btn {margin-left: 10px;}
+    .header-main .navbar-brand.main-brand {margin-right: 0;}
+    .banner-social ul li {margin-right: 50px;}
+    .custom-about .watermark {left: -80px;top: 16%;}
+    .watermark h2 {font-size: 135px;}
+    .abt-top-content h5 {font-size: 18px;margin-top: 15px;}
+    .custom-heading h4 {font-size: 24px;margin-top: 10px;}
+    .custom-heading h2 {font-size: 40px;}
+    .abt-top-content ul li {font-size: 14px;line-height: 28px;font-weight: 400;}
+    .abt-top-content ul {margin-top: 20px;}
+    .abt-top-img-2 {bottom: -60px;left: 0px;text-align: left;}
+    .abt-bottom {margin-top: 120px;}
+    .abt-bottom .abt-box p {font-size: 14px;min-height: 420px;}
+    .abt-bottom .abt-box h5 {font-size: 22px;margin: 25px 0 15px;}
+    .abt-box-img img {height: 90px;}
+    .abt-top-img img {width: 85%;object-fit: cover;}
+    .abt-top-content {margin-left: 20px;}
+    .abt-bottom .abt-box {padding: 30px 20px;}
+    .marketing-content h3 {font-size: 22px;}
+    .marketing-box {margin-bottom: 30px;padding: 35px 25px;}
+    .marketing-list li {font-size: 15px;padding-left: 15px;}
+    .why-choose-text {top: 26%;}
+    .marketing-list {min-height: 100px;margin-bottom: 30px;}
+    .digital-marketing .watermark {right: -10%;bottom: 13%;}
+    .digital-marketing .custom-heading p {margin: 30px 0 0;}
+    .digital-marketing .custom-heading.text-center {margin-bottom: 50px;}
+    .why-choose-digital-market {margin-top: 70px;}
+    .why-choose-text p {margin-top: 20px;padding-right: 100px;}
+    .marketing-list li::before {top: 9px;}
+    .faq-content .accordion .accordion-button.collapsed {font-size: 18px;padding: 25px 20px;}
+    .faq-content .accordion .accordion-button {font-size: 18px;padding: 25px 20px;}
+    .faq-content .accordion .accordion-body {font-size: 18px;padding: 20px 20px;}
+    .faq-content .custom-heading {margin-bottom: 35px;}
+    .faq-content .accordion .accordion-button::after {font-size: 12px;width: 25px;height: 25px;line-height: 30px;}
+    .blog-posts {margin-top: 60px;}
+    .blog-box h5 {font-size: 24px;line-height: 32px;margin: 25px 0 10px;}
+    .blog-box {padding: 35px 25px;}
+    .blog-btn {margin-top: 30px;}
+    .result-content ul li:last-child {font-size: 18px;}
+    .result-content p {font-size: 16px;}
+    .result-content ul { margin-top: 40px;}
+    .result-img::before {top: -20px;right: 30px;}
+
+
+
+    /*Footer*/
+    .footer-list ul li a {font-size: 14px;}
+    .footer-list ul li {padding-bottom: 8px;}
+    .footer-logo p {font-size: 14px;line-height: 28px;padding-right: 0px;margin-top: 30px;}
+    .copyright {margin-top: 40px;padding: 15px 0;}
+    .copyright-text p {font-size: 12px;}
+    .footer-head {font-size: 17px;padding-bottom: 40px;}
+    .footer-head::before {bottom: 18px;}
+    .footer-wrap {padding: 80px 0 0;}
+    .footer-list ul li a span {top: -2px;}
+
+
+    .inner-banner-content h1 {font-size: 50px;padding-right: 20%;}
+    .inner-banner-text .breadcrumb {margin-top: 100px;}
+    .custom-inner-banner .banner-overlay {bottom: 24%;}
+    .custom-inner-banner {padding: 250px 0 30px;}
+    .inner-banner-text .breadcrumb li {font-size: 16px;}
+
+    /*About*/
+    .about-inner-content h5 {font-size: 18px;margin: 20px 0 0;}
+    .about-inner-content p {margin-top: 20px;}
+    .about-inner .row:last-child {margin-top: 40px;}
+    .about-service .container .row:last-child {margin-top: 10px;padding: 0px 12%;}
+    .about-service .marketing-list {min-height: 90px;}
+    .abt-explore-box h3 {font-size: 28px;line-height: 44px;min-height: 190px;}
+    .abt-partner .result-img::before {right: 20px;}
+    .about-inner-content {margin-left: 30px;}
+    .about-inner .row:last-child .about-inner-content {margin-right: 30px;}
+    .abt-explore-box {padding: 50px 40px;}
+    
+
+
+    /*Benefits of parenting*/
+    .benefits-details-box p {min-height: 145px;font-size: 14px;}
+    .benefits-details-box .benefits-details-icon img {height: 80px;}
+    .benefits-details-box h4 {font-size: 22px;margin: 25px 0 10px;}
+    .benefits-interest {margin-top: 70px;}
+    .benefits-details {padding-bottom: 150px !important;}
+    .benefits-details-box {padding: 30px 20px;}
+    .benefits-interest-content .custom-heading {margin-bottom: 20px;}
+    .benefits-interest-img img {width: 80%;}
+    .cta-content .custom-heading h4 {font-size: 24px;}
+
+
+    /*Blog details*/
+    .blog-details-content-wrap ul li {padding: 10px 0 10px 30px;font-size: 15px;}
+    .blog-details-text-box {margin-top: 30px;padding: 30px 0;}
+    .blog-details-content-wrap ul li h5 {font-size: 22px;}
+    .blog-details-content-wrap ul li h5::after {width: 20px;left: -30px;height: 22px;}
+    .blog-details-content-wrap p {margin: 40px 0 20px;}
+    .blog-details-text-box ul li {padding-right: 30px !important;}
+
+
+    /*Contact*/
+    .form-1 {margin: 30px 0 50px;}
+    .form-2 {margin: 30px 0 50px;}
+    .form-3 {margin: 30px 0 50px;}
+    .contact-inner-wrap .form-wrap .form-control {padding: 16px 20px;font-size: 14px;}
+    .contact-privacy ul li {font-size: 14px;}
+    .contact-privacy {margin: 75px 20px 0;padding: 50px 30px;}
+    .form-btn {margin-top: 60px;}
+    .contact-inner-wrap .form-wrap .form-select {padding: 16px 20px;font-size: 14px;width: 97%;}
+
+
+    /*ebook*/
+    .ebook-details-content .custom-heading {margin: 20px 0 50px;}
+
+
+    /*Faq*/
+    .general-question-content h4 {font-size: 24px;}
+    .faq-details-head {font-size: 24px;}
+    .faq-details-head {margin-top: 50px;}
+    .faq-about .custom-heading {padding-right: 100px;}
+
+
+    /*oppportunity*/
+    .partnership-opportunity-info-content img {width: 100%;}
+    .why-partner-content {margin-top: 30px;}
+    .why-partner-box-text h5 {font-size: 22px;padding-right: 60%;}
+    .why-partner-box-img img {height: 460px;}
+    .why-partner-box-text p {font-size: 14px;padding-right: 170px;}
+    .partnership-opportunity-info-content p {margin-top: 30px;}
+    .why-partner-content .container .row {padding: 0 0%;}
+
+
+    /*Video*/
+    .video-info-img img {width: 100%;}
+    .video-info-slider .custom-heading {margin-bottom: 50px;}
+    .video-nav-slider {margin-top: 60px;}
+    .video-info-slider {margin-top: 40px;}
+    .local-video iframe {height: 210px;}
+    .video-nav-slider .video-business iframe { height: 250px;}
+
+
+    /*Service-inner*/   
+    .service-inner-content-wrap ul li {font-size: 14px;padding: 0 0 10px 25px;}
+    .service-inner-content-wrap ul li::after {width: 12px;height: 12px;top: 6px;}
+    .service-inner-content-wrap h5 {font-size: 18px;}
+    .service-inner-content-wrap p {margin: 15px 0px;}
+    .service-inner-content-wrap {margin-top: 25px;}
+    .service-inner-content-wrap ul {margin: 15px 0;}
+    .service-inner-img::before {bottom: -8%;}
+    .service-inner .container .row:last-child {margin-top: 120px;}
+    .service-inner-img img {width: 80%;}
+	
+	/*Changes*/
+	.custom-header .navbar-nav li .sub-menu li a {padding: 8px 10px;}
+	
+	.about-service .marketing-box::before {top: 50%;}
+	.about-service .marketing-box::after {top: 33%;}
+	.form-btn p::after {height: 51px;left: 131px;line-height: 50px;}
+	.cta .request-quote-btn {margin-top: 40px;}
+	
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+	.custom-submenu {width: 280px;}
+    .custom-header nav ul.navbar-nav > li {margin-left: 17px;}
+    ul.custom-submenu li a {font-size: 14px;}
+    .main-brand img {height: 125px;}
+    .custom-header nav ul > li a{font-size: 12px;}
+    ul.custom-submenu li a {font-size: 14px !important;}
+    p {font-size: 14px;line-height: 28px;}
+    .custom-pad {padding: 80px 0;}
+    .custom-header .container-fluid {padding: 0 15px;}
+    .banner-social ul {left: -230px;bottom: 200px;}
+    .banner-content h1 {font-size: 50px;}
+    .banner-content h4 {font-size: 22px;margin: 10px 0 40px;}
+    .custom-btn {font-size: 14px;padding: 0 0px 0 16px;}
+    .banner-content {margin-left: 60px;}
+    .custom-banner {padding: 220px 0 90px;}
+    #quick-service-owl .owl-nav .owl-prev {left: 0px;font-size: 22px;height: 40px;width: 40px;}
+    #quick-service-owl .owl-nav .owl-next {right: 0px;font-size: 22px;height: 40px;width: 40px;}
+    .q-content h4 {font-size: 18px;}
+    .q-icon {margin-bottom: 20px;height: 110px;width: 110px;}
+    .custom-btn span {height: 48px;margin-left: 10px;line-height: 52px;}
+    .header-btn {margin-left: 10px;}
+    .header-main .navbar-brand.main-brand {margin-right: 0;}
+    .banner-social ul li {margin-right: 50px;}
+    .custom-about .watermark {left: -50px;top: 10%;}
+    .watermark h2 {font-size: 90px;}
+    .abt-top-content h5 {font-size: 18px;margin-top: 15px;}
+    .custom-heading h4 {font-size: 24px;margin-top: 10px;}
+    .custom-heading h2 {font-size: 40px;}
+    .abt-top-content ul li {font-size: 14px;line-height: 28px;font-weight: 400;}
+    .abt-top-content ul {margin-top: 20px;}
+    .abt-top-img-2 {bottom: -60px;left: 0px;text-align: left;}
+    .abt-bottom {margin-top: 120px;}
+    .abt-bottom .abt-box p {font-size: 14px;min-height: 420px;}
+    .abt-bottom .abt-box h5 {font-size: 22px;margin: 25px 0 15px;}
+    .abt-box-img img {height: 90px;}
+    .abt-top-img img {width: 85%;object-fit: cover;}
+    .abt-top-content {margin-left: 20px;}
+    .abt-bottom .abt-box {padding: 30px 20px;}
+    .marketing-content h3 {font-size: 20px;}
+    .marketing-box {margin-bottom: 30px;padding: 35px 25px;}
+    .marketing-list li {font-size: 14px;padding-left: 15px;}
+    .why-choose-text {top: 26%;}
+    .marketing-list {min-height: 70px;margin-bottom: 30px;}
+    .digital-marketing .watermark {right: -8%;bottom: 13%;}
+    .digital-marketing .custom-heading p {margin: 20px 0 0;}
+    .digital-marketing .custom-heading.text-center {margin-bottom: 50px;}
+    .why-choose-digital-market {margin-top: 60px;}
+    .why-choose-text p {margin-top: 20px;padding-right: 100px;}
+    .why-choose-content-after-img {top: -30px;right: 10px;}
+    .digital-marketing .container .row:last-child {margin-top: 50px;}
+    .marketing-list li::before {top: 8px;}
+    .marketing-box::before {top: 52%;}
+    .faq-content .accordion .accordion-button.collapsed {font-size: 18px;padding: 25px 20px;}
+    .faq-content .accordion .accordion-button {font-size: 18px;padding: 25px 20px;}
+    .faq-content .accordion .accordion-body {font-size: 18px;padding: 20px 20px;}
+    .faq-content .custom-heading {margin-bottom: 35px;}
+    .faq-content .accordion .accordion-button::after {font-size: 12px;width: 25px;height: 25px;line-height: 30px;}
+    .blog-posts {margin-top: 40px;}
+    .blog-box h5 {font-size: 22px;line-height: 32px;margin: 25px 0 10px;}
+    .blog-box {padding: 30px 20px;}
+    .blog-btn {margin-top: 25px;}
+    .result-content ul li:last-child {font-size: 18px;}
+    .result-content p {font-size: 16px;}
+    .result-content ul { margin-top: 40px;}
+    .result-img::before {top: -20px;right: 30px;}
+
+    /*Footer*/
+    .footer-list ul li a {font-size: 14px;}
+    .footer-list ul li {padding-bottom: 8px;}
+    .footer-logo p {font-size: 14px;line-height: 28px;padding-right: 0px;margin-top: 30px;}
+    .copyright {margin-top: 40px;padding: 15px 0;}
+    .copyright-text p {font-size: 12px;}
+    .footer-head {font-size: 17px;padding-bottom: 40px;}
+    .footer-head::before {bottom: 18px;}
+    .footer-wrap {padding: 80px 0 0;}
+    .footer-list ul li a span {top: -2px;}
+
+
+
+    .inner-banner-content h1 {font-size: 40px;padding-right: 30%;}
+    .inner-banner-text .breadcrumb {margin-top: 80px;}
+    .custom-inner-banner .banner-overlay {bottom: 27%;}
+    .custom-inner-banner {padding: 200px 0 30px;}
+    .inner-banner-text .breadcrumb li {font-size: 16px;}
+
+    /*About*/
+    .about-inner-content h5 {font-size: 18px;margin: 20px 0 0;}
+    .about-inner-content p {margin-top: 20px;}
+    .about-inner .row:last-child {margin-top: 40px;}
+    .about-service .container .row:last-child {margin-top: 10px;padding: 0px 12%;}
+    .about-service .marketing-list {min-height: 90px;}
+    .abt-explore-box h3 {font-size: 28px;line-height: 44px;min-height: 190px;}
+    .abt-partner .result-img::before {right: 20px;}
+    .about-inner-content {margin-left: 30px;}
+    .about-inner .row:last-child .about-inner-content {margin-right: 30px;}
+    .abt-explore-box {padding: 50px 40px;}
+   
+
+
+    /*Benefits of parenting*/
+    .benefits-details-box p {min-height: 145px;font-size: 14px;}
+    .benefits-details-box .benefits-details-icon img {height: 70px;}
+    .benefits-details-box h4 {font-size: 22px;margin: 25px 0 10px;}
+    .benefits-interest {margin-top: 50px;}
+    .benefits-details {padding-bottom: 150px !important;}
+    .benefits-details-box {padding: 30px 20px;}
+    .benefits-interest-content .custom-heading {margin-bottom: 20px;}
+    .benefits-interest-img img {width: 80%;}
+    .cta-content .custom-heading h4 {font-size: 22px;}
+
+
+    /*Blog details*/
+    .blog-details-content-wrap ul li {padding: 10px 0 10px 30px;font-size: 14px;}
+    .blog-details-text-box {margin-top: 30px;padding: 30px 0;}
+    .blog-details-content-wrap ul li h5 {font-size: 22px;}
+    .blog-details-content-wrap ul li h5::after {width: 20px;left: -30px;height: 22px;}
+    .blog-details-content-wrap p {margin: 40px 0 20px;}
+    .blog-details-text-box ul li {padding-right: 30px !important;}
+
+
+    /*Contact*/
+    .form-1 {margin: 30px 0 40px;}
+    .form-2 {margin: 30px 0 40px;}
+    .form-3 {margin: 30px 0 40px;}
+    .contact-inner-wrap .form-wrap .form-control {padding: 16px 20px;font-size: 14px;}
+    .contact-privacy ul li {font-size: 14px;}
+    .contact-privacy {margin: 60px 20px 0;padding: 40px 30px;}
+    .form-btn {margin-top: 40px;}
+    .contact-inner-wrap .form-wrap .form-select {padding: 16px 20px;font-size: 14px;width: 97%;}
+
+    
+    /*ebook*/
+    .ebook-details-content .custom-heading {margin: 20px 0 50px;}
+
+
+    /*Faq*/
+    .general-question-content h4 {font-size: 22px;}
+    .faq-details-head {font-size: 22px;}
+    .faq-details-head {margin-top: 40px;}
+    .faq-about .custom-heading {padding-right: 100px;}
+
+
+    /*oppportunity*/
+    .partnership-opportunity-info-content img {width: 100%;}
+    .why-partner-content {margin-top: 30px;}
+    .why-partner-box-text h5 {font-size: 22px;padding-right: 60%;}
+    .why-partner-box-img img {height: 460px;}
+    .why-partner-box-text p {font-size: 14px;padding-right: 170px;}
+    .partnership-opportunity-info-content p {margin-top: 30px;}
+    .why-partner-content .container .row {padding: 0 0%;}
+
+
+    /*Video*/
+    .video-info-img img {width: 100%;}
+    .video-info-slider .custom-heading {margin-bottom: 50px;}
+    .video-nav-slider {margin-top: 60px;}
+    .video-info-slider {margin-top: 40px;}
+    .local-video iframe {height: 210px;}
+    .video-nav-slider .video-business iframe { height: 250px;}
+
+
+    /*Service-inner*/   
+    .service-inner-content-wrap ul li {font-size: 14px;padding: 0 0 10px 20px;}
+    .service-inner-content-wrap ul li::after {width: 12px;height: 12px;top: 6px;}
+    .service-inner-content-wrap h5 {font-size: 18px;}
+    .service-inner-content-wrap p {margin: 15px 0px;}
+    .service-inner-content-wrap {margin-top: 25px;}
+    .service-inner-content-wrap ul {margin: 15px 0;}
+    .service-inner-img::before {bottom: -8%;}
+    .service-inner .container .row:last-child {margin-top: 120px;}
+    .service-inner-img img {width: 80%;}
+	
+	/*Changes*/
+	.custom-header .navbar-nav li .sub-menu li a {padding: 8px 10px;}
+	
+	.about-service .marketing-box::before {top: 50%;}
+	.about-service .marketing-box::after {top: 33%;}
+	.form-btn p::after {height: 51px;left: 131px;line-height: 50px;}
+	.cta .request-quote-btn {margin-top: 40px;}
+}
+
+@media only screen and (max-width: 991.98px) {    
+.navbar-toggler { float: left;margin: 0; height: 45px; width: 45px; border-radius: 0;z-index: 1}
+.navbar-toggler .icon-bar { width: 24px; background: var(--c-primary-blue);transition: .5s ease;}
+.navbar-toggler.collapsed .icon-bar:nth-child(2){transform: rotate(0) translateY(0) translateX(0);}
+.navbar-toggler.collapsed .icon-bar:nth-child(3){opacity:1}
+.navbar-toggler.collapsed .icon-bar:nth-child(4){transform:rotate(0) translateY(0) translateX(0);}
+.navbar-toggler .icon-bar:nth-child(2){transform: rotate(-45deg) translateY(5px) translateX(-5px);}
+.navbar-toggler .icon-bar:nth-child(3){opacity: 0}
+.navbar-toggler .icon-bar:nth-child(4){transform:rotate(45deg) translateY(-4px) translateX(-3px);}
+.navbar-header {display: block;}
+.header-social {display: none;}
+.header-main-right-top-wrap {position: absolute;margin-left: 0;margin-top:0px;background-color: var(--c-primary-blue);width: 100%;z-index: 9;top: 98px;}
+.main-brand {transform: translateY(0px);}
+.custom-header nav ul.navbar-nav > li {margin-left: 0;width: 100%;}
+.custom-header nav ul li a {padding-top: 10px;padding-bottom: 10px;border-bottom: 1px dashed #83b9f2;color: var(--c-white);}
+.navbar-nav {padding: 0 20px;}
+.custom-header nav ul li a:focus{color: var(--c-white);}
+.custom-submenu {position: unset;width: 100%;}
+.custom-submenu.lebel-2 {padding-left: 10px;}
+
+    .custom-pad {padding: 60px 0;}
+    p {font-size: 14px;line-height: 28px;}
+    .header-main .navbar-header .navbar-toggler.collapsed {background-color: var(--c-grey);border-radius: 5px;}
+    .header-main .navbar-header .navbar-toggler {background-color: var(--c-grey);border-radius: 5px;}
+    .header-main .navbar-header .navbar-toggler.collapsed span {background-color: var(--c-secondary-text) !important;}
+    .header-main .navbar-header .navbar-toggler span {background-color: var(--c-secondary-text) !important;}
+    .custom-header .container-fluid {padding: 0 15px;}
+    .banner-social ul {left: -230px;bottom: 245px;}
+    .banner-content h1 {font-size: 40px;}
+    .banner-content h4 {font-size: 18px;margin: 10px 0 30px;}
+    .custom-btn {font-size: 14px;padding: 0 0px 0 16px;}
+    .banner-content {margin-left: 60px;}
+    .custom-banner {padding: 170px 0 60px;}
+    #quick-service-owl .owl-nav .owl-prev {left: 0px;font-size: 22px;height: 40px;width: 40px;}
+    #quick-service-owl .owl-nav .owl-next {right: 0px;font-size: 22px;height: 40px;width: 40px;}
+    .q-content h4 {font-size: 18px;}
+    .q-icon {margin-bottom: 20px;height: 110px;width: 110px;}
+    .custom-btn span {height: 48px;margin-left: 10px;line-height: 52px;}
+    .header-btn {display:none;}
+	.top-header-btn {display:block !important;margin-top: -122px;width: 100%;text-align: end;margin-right: 60px;}
+	
+    .header-main .navbar-brand.main-brand {margin-right: 0;}
+    .banner-social ul li {margin-right: 50px;}
+    .banner-video {text-align: end;margin-top: 30px;}
+    .banner-video img {width: 92%;}
+    .banner-video::after {width: 92%;left: auto;right: 0;}
+    .banner-video .btn.btn-primary {left: 70px;}
+    .footer-logo img {height: 130px;object-fit: cover;}
+    .header-main .navbar-brand.main-brand img {height: 130px;object-fit: cover;}
+    .custom-quick-service {padding: 60px 0;}
+    .custom-about .watermark {left: -50px;top: 10%;}
+    .watermark h2 {font-size: 90px;}
+    .abt-top-content h5 {font-size: 16px;margin-top: 15px;}
+    .custom-heading h4 {font-size: 20px;margin-top: 10px;}
+    .custom-heading h2 {font-size: 28px;}
+    .abt-top-content ul li {font-size: 14px;line-height: 28px;font-weight: 400;}
+    .abt-top-content ul {margin-top: 20px;}
+    .abt-top-img-2 {bottom: -60px;left: 0px;text-align: left;}
+    .abt-bottom {margin-top: 20px;}
+    .abt-bottom .abt-box p {font-size: 14px;min-height: 340px;}
+    .abt-bottom .abt-box h5 {font-size: 20px;margin: 25px 0 15px;}
+    .abt-box-img img {height: 90px;}
+    .abt-top-img img {width: 85%;object-fit: cover;}
+    .abt-top-content {margin-left: 0;margin-top: 100px;}
+    .abt-bottom .abt-box {padding: 30px 20px;margin-top: 20px;}
+    .marketing-box::before {top: 52%;}
+    .marketing-content h3 {font-size: 20px;margin: 15px 0 15px;}
+    .marketing-box {margin-bottom: 30px;padding: 35px 25px;}
+    .marketing-list li {font-size: 14px;padding-left:15px;}
+    .why-choose-text {top: 21%;left: 19%;}
+    .marketing-list {min-height: 80px;margin-bottom: 20px;}
+    .digital-marketing .watermark {right: -12%;bottom: 10%;}
+    .digital-marketing .custom-heading p {margin: 20px 0 0;}
+    .digital-marketing .custom-heading.text-center {margin-bottom: 50px;}
+    .why-choose-digital-market {margin-top: 60px;}
+    .why-choose-text p {margin-top: 20px;padding-right: 80px;}
+    .why-choose-content-after-img {top: -30px;right: 10px;}
+    .digital-market-btn {margin-top: 20px;}
+    .digital-marketing .container .row:last-child {margin-top: 50px;}
+    .why-choose-img img {width: 100%;}
+    .why-choose-img {right: 0;}
+    .why-choose-content-img img {width: 77%;}
+    .marketing-list li::before {top: 8px;}
+    .faq-content .accordion .accordion-button.collapsed {font-size: 18px;padding: 25px 15px;}
+    .faq-content .accordion .accordion-button {font-size: 18px;padding: 25px 15px;}
+    .faq-content .accordion .accordion-body {font-size: 16px;padding: 20px 15px;}
+    .faq-content .custom-heading {margin-bottom: 35px;}
+    .faq-content .accordion .accordion-button::after {font-size: 12px;width: 25px;height: 25px;line-height: 28px;}
+    .blog-posts {margin-top: 20px;}
+    .blog-box h5 {font-size: 22px;line-height: 32px;margin: 25px 0 10px;}
+    .blog-box {padding: 30px 20px;margin-top: 20px;}
+    .blog-btn {margin-top: 25px;}
+    .result-content ul li:last-child {font-size: 18px;}
+    .result-content p {font-size: 15px;margin-top: 20px;}
+    .result-content ul { margin-top: 40px;}
+    .result-img::before {top: -30px;right: 40px;border: 6px solid var(--c-secondary-blue);}
+    .result-img {margin-top: 80px;}
+
+
+    /*Footer*/
+    .footer-list ul li a {font-size: 14px;}
+    .footer-list ul li {padding-bottom: 8px;}
+    .footer-logo p {font-size: 14px;line-height: 28px;padding-right: 0px;margin-top: 20px;}
+    .copyright {margin-top: 30px;padding: 15px 0;}
+    .copyright-text p {font-size: 12px;}
+    .footer-head {font-size: 17px;padding-bottom: 40px;}
+    .footer-head::before {bottom: 18px;}
+    .footer-wrap {padding: 70px 0 0;}
+    .footer-logo {margin-bottom: 30px;}
+    .footer-list {margin-bottom: 30px;}
+    .footer-list ul li a span {top: -2px;}
+
+
+    .inner-banner-content h1 {font-size: 40px;padding-right: 10%;}
+    .inner-banner-text .breadcrumb {margin-top: 80px;}
+    .custom-inner-banner .banner-overlay {bottom: 27%;}
+    .custom-inner-banner {padding: 200px 0 30px;}
+    .inner-banner-text .breadcrumb li {font-size: 16px;}
+
+    /*About*/
+    .about-inner-content h5 {font-size: 18px;margin: 20px 0 0;}
+    .about-inner-content p {margin-top: 20px;}
+    .about-inner .row:last-child {margin-top: 40px;}
+    .about-service .container .row:last-child {margin-top: 0px;padding: 0px 0%;}
+    .about-service .marketing-list {min-height: 90px;}
+    .abt-explore-box h3 {font-size: 24px;line-height: 36px;min-height: 160px;}
+    .abt-partner .result-img::before {right: 45px;}
+    .about-inner-content {margin-left: 0px; margin-top: 40px;}
+    .about-inner .row:last-child .about-inner-content {margin-right: 0px;}
+    .abt-explore-box {padding: 30px 30px;}
+    .abt-explore .container .row {padding: 0 0%;}
+    
+
+
+    /*Benefits of parenting*/
+    .benefits-details-box p {min-height: 115px;font-size: 14px;}
+    .benefits-details-box .benefits-details-icon img {height: 80px;}
+    .benefits-details-box h4 {font-size: 22px;margin: 25px 0 10px;}
+    .benefits-interest {margin-top: 40px;}
+    .benefits-details {padding-bottom: 60px !important;}
+    .benefits-details-box {padding: 30px 20px;}
+    .benefits-interest-content .custom-heading {margin-bottom: 20px;}
+    .benefits-interest-img img {width: 90%;}
+    .cta-content .custom-heading h4 {font-size: 20px;}
+    .benefits-interest-content {margin-top: 15%;}
+    .benefits-interest-img {text-align: end;}
+	.benefits-interest-img::after {width: 85%;}
+
+
+    /*Blog*/
+    .blog-inner .blog-box {margin-bottom: 5px;}
+
+
+    /*Blog details*/
+    .blog-details-content-wrap ul li {padding: 10px 0 10px 30px;font-size: 14px;}
+    .blog-details-text-box {margin-top: 20px;padding: 20px 0;}
+    .blog-details-content-wrap ul li h5 {font-size: 20px;}
+    .blog-details-content-wrap ul li h5::after {width: 20px;left: -30px;height: 22px;}
+    .blog-details-content-wrap p {margin: 40px 0 20px;}
+    .blog-details-text-box ul li {padding-right: 30px !important;}
+
+
+    /*Contact*/
+    .form-1 {margin: 30px 0 40px;}
+    .form-2 {margin: 30px 0 40px;}
+    .form-3 {margin: 30px 0 40px;}
+    .contact-inner-wrap .form-wrap .form-control {padding: 16px 20px;font-size: 14px;}
+    .contact-privacy ul li {font-size: 14px;}
+    .contact-privacy {margin: 60px 0px 0;padding: 40px 30px;}
+    .form-btn {margin-top: 40px;}
+    .contact-inner-wrap .form-wrap .form-select {padding: 16px 20px;font-size: 14px;width: 97%;}
+
+
+    /*ebook*/
+    .ebook-details-content .custom-heading {margin: 10px 0 30px;}
+    .ebook-details-content {text-align: center;}
+
+
+    /*Faq*/
+    .general-question-content h4 {font-size: 20px;}
+    .faq-details-head {font-size: 20px;}
+    .faq-details-head {margin-top: 30px;}
+    .faq-about .custom-heading {padding-right: 0px;margin-bottom: 20px; text-align: center;}
+
+
+    /*oppportunity*/
+    .partnership-opportunity-info-content img {width: 100%;}
+    .why-partner-content {margin-top: 15px;}
+    .why-partner-box-text h5 {font-size: 22px;padding-right: 60%;}
+    .why-partner-box-img img {height: 460px;}
+    .why-partner-box-text p {font-size: 16px;padding-right: 250px;}
+    .partnership-opportunity-info-content p {margin-top: 20px;text-align: center;}
+    .why-partner-content .container .row {padding: 0 0%;}
+    .why-partner-box-text {top: 27%;}
+    .partnership-opportunity-info-content {padding: 0 0px;}
+	
+	.why-partner.partner-second .col-lg-6:nth-child(3) .why-partner-box-img img, .why-partner.partner-second .col-lg-6:nth-child(4) .why-partner-box-img img {height: 466px;}
+	.why-partner.partner-first .col-lg-6:nth-child(3) .why-partner-box-img img, .why-partner.partner-first .col-lg-6:nth-child(4) .why-partner-box-img img {height: 546px;}
+
+
+    /*Video*/
+    .video-info-img img {width: 100%;}
+    .video-info-slider .custom-heading {margin-bottom: 30px;}
+    .video-nav-slider {margin-top: 30px;}
+    .video-info-slider {margin-top: 30px;}
+    .local-video iframe {height: 210px;}
+    .video-info-img p {margin-top: 15px;}
+    .video-nav-slider .video-business iframe { height: 220px;}
+
+
+    /*Service-inner*/   
+    .service-inner-content-wrap ul li {font-size: 14px;padding: 0 0 10px 20px;}
+    .service-inner-content-wrap ul li::after {width: 12px;height: 12px;top:5px;}
+    .service-inner-content-wrap h5 {font-size: 18px;}
+    .service-inner-content-wrap p {margin: 15px 0px;}
+    .service-inner-content-wrap {margin-top: 25px;}
+    .service-inner-content-wrap ul {margin: 15px 0;}
+    .service-inner-img::before {bottom: -8%;width: 88%;}
+    .service-inner .container .row:last-child {margin-top: 50px;}
+    .service-inner-img img {width: 90%;}
+    .service-inner-img {text-align: end;}
+    .service-inner-content {margin-top: 120px;}
+    .service-inner .container .row:last-child .service-inner-img {text-align: left;}
+	
+	
+	
+	/*Changes*/
+	.custom-header .navbar-nav li .sub-menu {width: 100%;background-color: var(--c-secondary-text);z-index: 2;}
+	.custom-header .navbar-nav li .sub-menu li a {border-bottom: 1px dashed #83b9f2;}
+	
+	.about-service .marketing-box::before {top: 50%;}
+	.about-service .marketing-box::after {top: 33%;}
+	.form-btn p::after {height: 51px;left: 131px;line-height: 50px;}
+	.cta .request-quote-btn {margin-top: 30px;}
+	.cta .request-quote-btn {display: block;}
+	
+	
+	
+	
+}
+
+
+@media (max-width: 767.98px){
+    .custom-pad {padding: 40px 0;}
+    .custom-quick-service {padding: 40px 0;}
+    .custom-banner {padding: 160px 0 50px;}
+    .banner-video .btn.btn-primary {left: 50px;}
+    .banner-content h1 {font-size: 36px;}
+    .banner-content h4 {font-size: 16px;}
+    .banner-content {margin-left: 45px;}
+    .custom-about .watermark {top: 7%;}
+    .abt-top-content h5 {font-size: 15px;}
+    .abt-bottom .abt-box p {min-height: auto;}
+    .abt-bottom .abt-box h5 {margin: 22px 0 10px;}
+    .marketing-list {min-height: auto;margin-bottom: 28px;}
+    .digital-marketing .watermark {right: -16%;bottom: 5%;}
+    .why-choose-content-wrap {left: 0px;margin-top: 40px;}
+    .why-choose-content-img img {width: 90%;}
+    .why-choose-content-after-img {top: -20px;right: 10px;}
+    .why-choose-text {top: 32%;left: 10%;}
+    .why-choose-text .custom-heading {margin-left: 30px;}
+    .digital-marketing .custom-heading.text-center {margin-bottom: 30px;}
+    .marketing-box::before {top: 53%;}
+    .faq-content .accordion .accordion-button.collapsed {font-size: 16px;padding: 20px 15px;}
+    .faq-content .accordion .accordion-button {font-size: 16px;padding: 20px 15px;}
+    .faq-content .accordion .accordion-body {font-size: 14px;padding: 15px 15px;}
+    /*.faq-content .accordion .accordion-button::after {font-size: 10px;width: 22px;height: 22px;line-height: 24px;}*/
+    .faq-content .custom-heading {margin-bottom: 25px;text-align: center;}
+    .blog-box {text-align: center;}
+    .result-img::before {right: 25px;}
+    .result-content ul {display: block;text-align: center;margin-top: 20px;}
+    .result-content ul li {padding-bottom: 10px;}
+    .result-content {text-align: center;}
+
+
+    .inner-banner-content h1 {font-size: 30px;}
+    .inner-banner-text .breadcrumb {margin-top: 50px;}
+    .custom-inner-banner {padding: 180px 0 25px;}
+    .inner-banner-text .breadcrumb li {font-size: 14px;}
+
+
+    /*Footer*/
+    .footer-head {font-size: 16px;}
+    .copyright-social ul {justify-content: center;margin-top: 10px;}
+    .copyright-text p {text-align: center;}
+    .copyright-social ul li {margin: 0 16px;}
+
+
+    /*About*/
+    .about-inner-content p {margin-top: 10px;}
+    .about-inner-content h5 {font-size: 15px;margin: 15px 0 0;}
+    .about-service .marketing-list {min-height: auto;}
+    .abt-explore-box {padding: 30px 20px;margin-bottom: 20px;}
+    .abt-partner .result-img::before {right: 25px;}
+    .abt-explore-box h3 {font-size: 22px;line-height: 34px;min-height: auto;}
+    .abt-explore-box a {margin-top: 20px;display: inline-block;}
+    .about-service .container .row:last-child {margin-top: 10px;}
+    .about-service .marketing-box::before {top: 57%;}
+
+
+    /*Benefits of parenting*/
+    .benefits-details-box p {min-height: auto;}
+    .benefits-details-box {padding: 25px 15px;margin-bottom: 20px;}
+    .benefits-interest {margin-top: 30px;}
+    .benefits-interest-content {margin-top: 20%;text-align: center;}
+    .benefits-details {padding-bottom: 40px !important;}
+    .benefits-interest-content .custom-heading {margin-bottom: 15px;}
+    .cta-content .custom-heading h4 {font-size: 16px;}
+
+
+    /*Blog*/
+    .blog-inner .blog-box {margin-bottom: 0px;}
+
+
+    /*Blog-details*/
+    .blog-details-content-wrap p {margin: 20px 0 20px;}
+
+
+    /*Contact*/
+    .form-1 {margin: 20px 0 20px;}
+    .form-2 {margin: 20px 0 20px;}
+    .form-3 {margin: 20px 0 20px;}
+    .contact-privacy {margin: 40px 0px 0;padding: 30px 20px;text-align: center;}
+    .form-btn { margin-top: 30px;}
+    .contact-inner-wrap .form-wrap .custom-heading {text-align: center;}
+    /*.form-btn {text-align: center;}*/
+    .contact-inner-wrap .form-wrap .form-select {width: 95%;}
+
+
+    /*Faq*/
+    .general-question-content h4 {font-size: 18px;}
+    .faq-details-head {font-size: 18px;}
+
+
+    /*Opportunity*/
+    .why-partner-box-text p {font-size: 15px;padding-right: 170px;}
+
+
+    /*Service-Inner*/
+    .service-inner-content {margin-top: 100px;}
+    .service-inner .container .row:last-child {margin-top: 40px;}
+
+	/*Changes*/
+	.why-choose-content-img {text-align: left;}
+	.about-service .marketing-box::after {top: 30%;}
+	.about-service .marketing-box::before {top: 50%;}
+	
+	
+}
+
+@media (max-width: 575.98px){
+    .custom-banner {padding: 160px 0 40px;}
+    .banner-content h1 {font-size: 30px;}
+    .banner-content h4 {font-size: 14px; margin: 10px 0 25px;}
+    .banner-btns-wrap {display: block;}
+    .banner-btns-wrap a:last-child {margin-left: 0;margin-top: 15px;}
+    .banner-content {margin-left: 27px;}
+    .banner-video .btn.btn-primary {height: 100px;width: 100px;}
+    .banner-video .btn.btn-primary::after {height: 120px;width: 120px;left: -10px;top: -10px;}
+    .banner-video .btn.btn-primary {left: 30px;}
+    .banner-social ul {left: -220px;bottom: 225px;}
+    .banner-social ul li {margin-right: 40px;}
+    .abt-top-img-2 img {width: 70%;object-fit: cover;}
+    .abt-top-img-2 {bottom: -40px;}
+    .custom-about .watermark {top: 4%;left: -38px;}
+    .watermark h2 {font-size: 60px;}
+    .abt-top-content {margin-top: 70px;}
+    .abt-bottom .abt-box {padding: 20px 15px;}
+    .custom-heading h2 {font-size: 24px;}
+    .custom-heading h4 {font-size: 16px;margin-top: 8px;}
+    .abt-top-content h5 {font-size: 14px;margin-top: 12px;}
+    .why-choose-digital-market {margin-top: 50px;}
+    .why-choose-content-img {text-align: left;}
+    .why-choose-content-wrap {left: 0;}
+    .why-choose-text {top: 20%;left: 9%;}
+    .why-choose-text p {margin-top: 10px;padding-right: 30px;}
+    .why-choose-content-img img {width: 100%;}
+    .faq-content .accordion .accordion-button.collapsed {padding: 20px 10px;font-size: 14px;line-height: 26px;}
+    .faq-content .accordion .accordion-button {padding: 20px 10px;font-size: 14px;line-height: 26px;}
+    .faq-content .accordion .accordion-body {padding: 15px 10px;}
+    .blog-posts {margin-top: 10px;}
+    .blog-box h5 {font-size: 20px;line-height: 30px;margin: 20px 0 6px;}
+    .blog-box {padding: 25px 15px;}
+    .result-img img {width: 85%;}
+    .result-img::before {width: 85%;right: 5px;top: -20px;border: 5px solid var(--c-secondary-blue);}
+    .result-img {margin-top: 50px;}
+    .result-content ul li:last-child {font-size: 16px;}
+
+
+    .inner-banner-content h1 {font-size: 26px;padding-right: 0;}
+    .custom-inner-banner {padding: 170px 0 25px;}
+	 .header-btn {margin-right: 60px;}
+
+
+    /*Footer*/
+    .footer-wrap {padding: 40px 0 0;}
+    .copyright {margin-top: 20px;padding: 10px 0;}
+
+
+    /*About*/
+    .about-inner-content {text-align: center;}
+    .abt-partner .result-img::before {right: 5px;}
+    .abt-explore-box h3 {font-size: 20px;line-height: 32px;}
+    .abt-explore-box a {margin-top: 10px;font-size: 14px;}
+    .about-service .marketing-box::before {top: 55%;}
+
+
+    /*Benefits of parenting*/
+    .cta-content .custom-heading h4 {font-size: 14px;}
+    .benefits-interest-img::after {bottom: -40px;}
+
+
+    /*Contact*/
+    .contact-inner-wrap .form-wrap .form-select {width: 93%;}
+
+
+    /*ebook*/
+    .ebook-details-img img {width: 55%;}
+    .ebook-details-content .custom-heading {margin: 10px 0 25px;}
+
+
+    /*Faq*/
+    .general-question-content h4 {font-size: 16px;}
+    .faq-details-head {font-size: 16px;}
+
+
+    /*Opportunity*/
+     .why-partner-box-text p {font-size: 13px;padding-right: 90px;line-height: 23px;}
+    .why-partner-box-img img {height: auto;}
+    .why-partner-box-text h5 {font-size: 18px;padding-right: 52%;margin-bottom: 10px;}
+    .why-partner-box-img::after { background-size: unset;}
+	
+	 .why-partner.partner-first .col-lg-6:nth-child(3) .why-partner-box-img img, .why-partner.partner-first .col-lg-6:nth-child(4) .why-partner-box-img img {
+    height: 580px;
+  }
+
+
+    /*Service-Inner*/
+    .service-inner-content {margin-top: 70px;}
+    .service-inner-content-wrap h5 {font-size: 16px;}
+    .service-inner-content-wrap p {margin: 12px 0px;}
+    .service-inner-content-wrap {margin-top: 15px;}
+	
+	/*Changes*/
+	.faq-content .accordion .accordion-button::after {font-size: 10px;width: 22px;height: 22px;line-height: 25px;}
+	.about-service .marketing-box::before {top: 50%;}
+}
+
+@media only screen and (max-width: 480.98px) {	
+
+}
+
